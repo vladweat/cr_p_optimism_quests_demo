@@ -1,0 +1,4 @@
+OPTIMISM_PRC='optimism rpc'
+ARBITRUM_PRC='arbitrum rpc'
+OPTIMISM_API_KEY='optimism scan api key'
+ARBISCAN_API_KEY='arbitrum scan api key'
