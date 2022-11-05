@@ -23,13 +23,15 @@ source Scripts/activate
 Scripts\activate.bat   
 ```
 
-1. Установить библиотеки
+3. Установить библиотеки
 
 ```python
 (venv) pip install -r requirements.txt
 ```
 
 4. Скопировать файл `.env copy`, переименовать файл `.env copy` в `.env` добавить необходимые переменные в файл.
+
+5. Поместить приватные ключи от кошельков в файл `private_keys.txt`.
 
 ## Функционал
 
