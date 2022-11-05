@@ -5,7 +5,6 @@ Scripts
 tests
 .env
 private_keys copy.txt
-private_keys.txt
 pyvenv.cfg
 run_tests.py
 test.py
